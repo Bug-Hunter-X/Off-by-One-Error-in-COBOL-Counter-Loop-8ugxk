@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL programs. The `bug.cob` file contains a program that intends to count from 1 to 10, but due to a subtle error in the loop condition or counter initialization, it may not achieve the intended result. The `bugSolution.cob` file provides a corrected version of the code.
